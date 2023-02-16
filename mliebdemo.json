@@ -1,0 +1,6 @@
+{
+    "name": "MliebDemo",
+    "password": "supersecret",
+    "type": "Microsoft.Compute/virtualMachines",
+    "location": "eastus"
+}
